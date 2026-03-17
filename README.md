@@ -23,13 +23,13 @@ An AI-powered personal assistant built using **n8n workflows** and a **Streamlit
 
 ### 💬 Chat Interface
 
-![App Screenshot 1](app_screenshots/app1.png)
+![App Screenshot 1](app_screanshots/app1.png)
 
-![App Screenshot 2](app_screenshots/app2.png)
+![App Screenshot 2](app_screanshots/app2.png)
 
-![App Screenshot 3](app_screenshots/app3.png)
+![App Screenshot 3](app_screanshots/app3.png)
 
-![App Screenshot 4](app_screenshots/app4.png)
+![App Screenshot 4](app_screanshots/app4.png)
 
 ## ⚙️ How It Works
 
